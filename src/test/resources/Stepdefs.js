@@ -19,5 +19,6 @@ When(/^I wait (\d+) hour$/, function(arg1) {
 });
 
 Then(/^my belly should growl$/, function() {
+	assertEquals("expected", "actual");
 });
 
