@@ -8,15 +8,8 @@ to install and run Cucumber!
 
 Git:
 
-    git clone https://github.com/cucumber/cucumber-java-skeleton.git
+    git clone https://github.com/jorgeazevedo/cucumber-java-skeleton.git
     cd cucumber-java-skeleton
-
-Subversion:
-
-    svn checkout https://github.com/cucumber/cucumber-java-skeleton
-    cd cucumber-java-skeleton
-
-Or simply [download](https://github.com/cucumber/cucumber-java-skeleton/releases) a zip or tarball.
 
 ### Use Maven
 
